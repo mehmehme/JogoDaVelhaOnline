@@ -31,4 +31,4 @@ Caso queira jogar rode o client.bat primeiro e depois o tela.bat
   
 ## 📁 Estrutura de Arquivos
 
-/icon: Imagens utilizadas.
+- /icon: Imagens utilizadas.
