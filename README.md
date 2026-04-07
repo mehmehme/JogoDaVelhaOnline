@@ -26,9 +26,10 @@ Caso queira jogar rode o client.bat primeiro e depois o tela.bat
 
 ## Clone o repositório:
 
-Bash
+<pre>
 git clone https://github.com/mehmehme/JogoDaVelhaOnline.git
-
+<\pre>
+  
 ## 📁 Estrutura de Arquivos
 
 /icon: Imagens utilizadas.
