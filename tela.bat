@@ -1,0 +1,1 @@
+python tela.py
